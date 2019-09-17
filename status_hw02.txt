@@ -13,7 +13,7 @@ hw02.soham5610.space
 
 3. What's the link to your repository on github with your code?
 
-https://github.com/SohamSankhe/webdev_5610/tree/master/hw02
+https://github.com/SohamSankhe/WebDev5610_Hw2.git
 
 4. How many HTML / CSS tutorial exercises did you do?
 
